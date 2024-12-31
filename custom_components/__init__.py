@@ -1,0 +1,1 @@
+"""Dummy __init__.py to make imports with splitflap-homeassistant-custom-component reliable."""
